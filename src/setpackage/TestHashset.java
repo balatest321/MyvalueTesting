@@ -43,6 +43,7 @@ public class TestHashset {
 		System.out.println("----------==========++++++++++++");
 		for(Object f:hs) {
 		System.out.print(f+" ");
+		System.out.println("my commit");
 
 		
 		}
